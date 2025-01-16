@@ -1,0 +1,7 @@
+cd /path/to/your/folder
+git init
+git add .
+git commit -m "Initial commit for Nabawi Tours and Travels website"
+git remote add origin https://github.com/your-username/nabawi-website.git
+git branch -M main
+git push -u origin main
